@@ -35,5 +35,5 @@
 
 
 <img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=surbhit-14&show_icons=true&locale=en" alt="surbhit-14" />
-<img align="right" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=surbhit-14&" alt="surbhit-14" />
+<img align="right" width="405" src="https://github-readme-streak-stats.herokuapp.com/?user=surbhit-14&" alt="surbhit-14" />
 
