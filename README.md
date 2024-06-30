@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Blockchain, ML models training and Nodejs**
 
-- 👨‍💻 All of my projects are available at [WEBSITE](surbhitsrivastava.in)
+- 👨‍💻 All of my projects are available at [WEBSITE](https://surbhit-14.github.io/portfolio/)
 
 - 📝 I regularly write articles on [BLOG](surbhitsrivastava.in/blog)
 
 - 📫 How to reach me **surbhitsrivastava29@gmail.com**
 
-- 📄 Know about my experiences [RESUME](surbhitsrivastava.in/resume)
+- 📄 Know about my experiences [RESUME](https://surbhit-14.github.io/portfolio/assets/Surbhit%20Resume.pdf)
 
 
 
