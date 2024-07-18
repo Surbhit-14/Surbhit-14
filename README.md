@@ -10,7 +10,7 @@
 <img align="right" width="300" decoding="async" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" title alt="5 Coding Mistakes" loading="lazy">
 
 
-- 🌱 I’m currently learning **Blockchain, ML models training and Nodejs**
+- 🌱 I’m currently learning **Blockchain, Angular, ML models training and SpringBoot**
 
 - 👨‍💻 All of my projects are available at [WEBSITE](https://surbhit-14.github.io/portfolio/)
 
