@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [WEBSITE](https://surbhit-14.github.io/portfolio/)
 
-- 📝 I regularly write articles on [BLOG](surbhitsrivastava.in/blog)
+- 📝 I regularly write articles on [BLOG](https://surbhit-14.github.io/ai-blogs/)
 
 - 📫 How to reach me **surbhitsrivastava29@gmail.com**
 
