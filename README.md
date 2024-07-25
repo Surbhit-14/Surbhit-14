@@ -11,12 +11,14 @@
 
 
 - 🌱 I’m currently learning **Angular, ML models training and SpringBoot**
+  
+- 📫 How to reach me **surbhitsrivastava29@gmail.com**
 
 <!----- 👨‍💻 All of my projects are available at [WEBSITE](https://surbhit-14.github.io/portfolio/)------!>
 
 <!----- 📝 I regularly write articles on [BLOG](https://surbhit-14.github.io/ai-blogs/)------!>
 
-- 📫 How to reach me **surbhitsrivastava29@gmail.com**
+
 
 <!---- 📄 Know about my experiences [RESUME](https://surbhit-14.github.io/portfolio/assets/Surbhit%20Resume.pdf)------!>
 
