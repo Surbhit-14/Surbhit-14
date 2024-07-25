@@ -10,15 +10,15 @@
 <img align="right" width="300" decoding="async" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" title alt="5 Coding Mistakes" loading="lazy">
 
 
-- 🌱 I’m currently learning **Blockchain, Angular, ML models training and SpringBoot**
+- 🌱 I’m currently learning **Angular, ML models training and SpringBoot**
 
-- 👨‍💻 All of my projects are available at [WEBSITE](https://surbhit-14.github.io/portfolio/)
+<!----- 👨‍💻 All of my projects are available at [WEBSITE](https://surbhit-14.github.io/portfolio/)------!>
 
-- 📝 I regularly write articles on [BLOG](https://surbhit-14.github.io/ai-blogs/)
+<!----- 📝 I regularly write articles on [BLOG](https://surbhit-14.github.io/ai-blogs/)------!>
 
 - 📫 How to reach me **surbhitsrivastava29@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://surbhit-14.github.io/portfolio/assets/Surbhit%20Resume.pdf)
+<!---- 📄 Know about my experiences [RESUME](https://surbhit-14.github.io/portfolio/assets/Surbhit%20Resume.pdf)------!>
 
 
 
