@@ -60,7 +60,8 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"></p>
 
 
-<br><br>
+<br>
 <img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=surbhit-14&show_icons=true&locale=en" alt="surbhit-14" />
+<br>
 <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=surbhit-14&" alt="surbhit-14" />
 
